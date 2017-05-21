@@ -1,0 +1,30 @@
+{
+  "name": "reponsive-images",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-responsive-images": "^0.1.4"
+  },
+  "dependencies": {
+    "grunt-responsive-images": "^0.1.9"
+  },
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChefGuy/js-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheChefGuy/js-resume/issues"
+  },
+  "homepage": "https://github.com/TheChefGuy/js-resume#readme",
+  "description": ""
+}
